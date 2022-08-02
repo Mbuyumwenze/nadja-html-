@@ -74,8 +74,6 @@ header h2{
     
 }
  
-   
-p
 {
 /*border: black 1px solid;*/
 /*background-color: rgb(171, 209, 221);*/
@@ -103,63 +101,6 @@ padding: 20px;
     left: 0px;
 }
 
-.carte{
-    position:relative;
-    right: 430px;
-} 
-
- .corps{
-    border: none ;
- }
-
- .photo {
-    border: rgb(22, 2, 2) 1px solid;
-    width: 40%;
-    background-color: rgb(35, 48, 48);
-    border-radius: 10px;
-    color: rgb(253, 253, 253);
-    padding: 10px;
-    margin-left: 5px;
-
- }
- h3{
-    border: rgb(22, 2, 2) 1px solid;
-    margin: 40px;
-    color: rgb(253, 253, 253);
-    background-color: rgb(16, 134, 212);
-    padding: 20px;
-    width: 70%;
-    margin-bottom: 70px;
-    border-radius: 10px;
-}
-h4{
-   /* border: rgb(22, 2, 2) 1px solid;*/
-    margin: 40px;
-    color: rgb(3, 3, 3);
-    /*backgroud-color: rgb(27, 75, 107);*/
-    padding: 30px;
-    width: 60%;
-    margin-bottom: 90px;
-    border-radius: 10px;
-    padding: 15px;
-    align-items: center;
-}
-.design{
-    border: rgb(22, 2, 2) 1px solid;
-    width: 40%;
-    background-color: rgb(74, 48, 187);
-    border-radius: 10px;
-    color: rgb(253, 253, 253);
-    padding: 10px;
-    margin-left: 5px;
-}
 
 
- /* img{
-    border: black 1px solid;
-    border-radius: 10px;
-}
-.img{
-    padding-left: 40px;
-} */
- 
+
